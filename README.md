@@ -1,5 +1,5 @@
 # 💫 About Me:
-Me chamo Frank Land, tenho 19 anos. Sou apaixonado pela beleza visual. <br>Atualmente procuro uma vaga para iniciar no mercado de trabalho front-end.
+Me chamo Frank Land, tenho 19 anos. <br>Atualmente procuro uma vaga para iniciar no mercado de trabalho front-end.
 
 
 ## 🌐 Socials:
